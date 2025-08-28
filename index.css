@@ -22,6 +22,9 @@ table {
 #ICON_main {
   padding: 30px 0px;
 }
+#unreleased {
+  color: #888;
+}
 
 .binaries {
   background: #FFF;
